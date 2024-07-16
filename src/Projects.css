@@ -1,0 +1,13 @@
+.projects-box {
+  background-color: hsl(0, 0%, 90%);
+
+}
+img:hover {
+  cursor: pointer;
+}
+img {
+  border-radius: 5px;
+  width: 750px;
+  height: auto;
+  box-shadow: -1px 5px 10px hsl(0, 0%, 43%);
+}

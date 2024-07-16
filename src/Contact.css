@@ -1,0 +1,8 @@
+.contact_box {
+  background-color: hsl(161, 62%, 68%);
+  height: 100px;
+  text-align: center;
+}
+.contact_sub_heading {
+  padding: 10px 0px;
+}
